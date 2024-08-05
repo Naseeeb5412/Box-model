@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: yellow;
+    text-align: center;
+    padding: 10px;
+    margin-top: 0%;
+}
+div{
+    background-color: antiquewhite;
+    height: 500px;
+    width: 20%;
+    float: left;
+    justify-content: space-between;
+    margin-left: 50px;
+   
+}
+img{
+    margin-left: 30px;
+}
+h2{
+    padding: 20px;
+    text-align: center;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
